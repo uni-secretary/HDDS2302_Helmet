@@ -8,3 +8,6 @@ venv/
 /.jupyter_ystore.db
 
 /yolo11n.pt
+
+.DS_Store
+.cursorignore
