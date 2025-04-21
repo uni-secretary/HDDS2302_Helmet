@@ -1,0 +1,8 @@
+path: /Users/sam/HKBU_HDDS_YR2_HW/HDDS2302_Applied Deep Learning_Final/project-py/dataset
+train: images/train
+val: images/valid
+test: images/test
+nc: 2
+names:
+- hat
+- helmet
