@@ -6,6 +6,7 @@ venv/
 
 .ipynb_checkpoints/
 /.jupyter_ystore.db
+hf_helmet_dataset/
 
 /yolo11n.pt
 
